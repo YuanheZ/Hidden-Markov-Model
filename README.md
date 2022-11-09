@@ -1,4 +1,5 @@
-# Hidden-Markov-Model
-Resourses all from literatures and official textbook.
+# WDSS-UCL summer research projects Hidden-Markov-Model
 
-And create new
+Resourses from literatures and official textbook.
+
+And the process related to the project.
